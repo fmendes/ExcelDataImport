@@ -1,0 +1,5 @@
+C:\NewDev\GoalTenderAdmin-VS2010\GoalTenderAdminVS2008\GoalTenderPlanLoader\Bin\ExcelLibrary.dll
+C:\NewDev\GoalTenderAdmin-VS2010\GoalTenderAdminVS2008\GoalTenderPlanLoader\Bin\ExcelLibrary.pdb
+C:\NewDev\GoalTenderAdmin-VS2010\GoalTenderAdminVS2008\ExcelLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\NewDev\GoalTenderAdmin-VS2010\GoalTenderAdminVS2008\ExcelLibrary\obj\Debug\ExcelLibrary.dll
+C:\NewDev\GoalTenderAdmin-VS2010\GoalTenderAdminVS2008\ExcelLibrary\obj\Debug\ExcelLibrary.pdb
